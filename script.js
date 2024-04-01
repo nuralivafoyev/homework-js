@@ -73,7 +73,7 @@
 // let a = +prompt("a ni kiriting: ")
 // let b = +prompt("b ni kiriting: ")
 // let sum = 0;
-// for(let i=a; b>i; i++){
+// for(let i=a+1; b>i; i++){
 //     sum+=i;
 // }
 // console.log(`${a} dan ${b} gacha raqamlar yigindisi = ${sum}`)
@@ -95,7 +95,7 @@
 
 
 
-
+  
 //9-masala
 // a dan b gacha sonlar kvadratlari yigindisi
 // let a = +prompt("a ni kiriting: ");
